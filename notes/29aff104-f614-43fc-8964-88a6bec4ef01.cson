@@ -1,0 +1,15 @@
+createdAt: "2018-10-07T14:26:15.782Z"
+updatedAt: "2018-10-07T14:27:42.842Z"
+type: "MARKDOWN_NOTE"
+folder: "00b07823427e22a4d0ea"
+title: "escolher versão ruby"
+content: '''
+  ## escolher versão ruby
+  
+  ```ruby
+  rvm use 2.3.1@repteste --create
+  ```
+'''
+tags: []
+isStarred: false
+isTrashed: false
