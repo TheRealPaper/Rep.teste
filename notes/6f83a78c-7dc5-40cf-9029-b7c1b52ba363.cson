@@ -1,9 +1,24 @@
 createdAt: "2018-10-07T14:26:15.614Z"
-updatedAt: "2018-10-07T14:26:15.614Z"
+updatedAt: "2018-10-13T09:57:20.292Z"
 type: "MARKDOWN_NOTE"
 folder: "00b07823427e22a4d0ea"
-title: ""
-content: ""
+title: "`ruby"
+content: '''
+  ```ruby  
+  git add .
+    git commit -am "blablabla"
+  git push 
+  ```
+  
+  ```ruby 
+  cd #escolher diretorio 
+  ls #listar dir 
+  rm #apaga ficheiro
+  rm -r # apagar dir
+  vi "nome do ficheiro(sem aspas)" #editar ficheiro na consola 
+  cat "nome do ficheiro (sem aspas)" # imprimir na consola o conteudo do ficheiro 
+   bin/rails server #start rails server on $blog 
+'''
 tags: []
 isStarred: false
 isTrashed: false
